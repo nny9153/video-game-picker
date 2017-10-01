@@ -1,0 +1,88 @@
+#form2 input{
+
+	border: solid 1px #726E6D;
+	height: 20px;
+	margin: 5px;
+	border-radius: 6px;
+}
+
+#form2 label{
+   color: #FFF;
+ 
+}
+
+#form2{
+	background-color: #B4CFEC;
+	padding: 10px;
+	width: 350px;
+	border-radius: 4px;	
+}
+
+
+body{
+	/*background-image: url("../img/image.jpg");*/
+	/*background-repeat: no-repeat;*/
+}
+
+#maincontent{
+    background-color: #E5E4E2;
+    padding: 15px;
+    margin: auto;
+    width: 75%;
+    display: block;
+    min-height: 150px;
+    box-shadow: 0px 5px 20px #888888;
+}
+
+#navigation{
+	width: 100%;
+	height: 150px;
+	background-color: #0C090A;
+	margin: auto;
+	margin: 0;
+	box-shadow: 0px -5px 20px #0C090A;
+	opacity: 0.9;
+}
+
+#siteTitle{
+	color: #98AFC7;
+	font-size: 36px;
+	position: relative;
+	padding: 45px;
+}
+
+body{
+	font-family: "Open Sans", sans-serif;
+	color:  #5C5858; /* Gray */
+	margin:0;
+}
+
+#styleChoices, #resultsChoices, h3{
+	margin-top: 20px;
+	color: #15317E; /* Lapis Blue */ 
+	font-size: 18px;
+	font-weight: bold;
+}
+
+select{
+	background-color: #FFF;
+	position: relative;
+	left: 0px;
+	padding: 10px;
+	/*height: 25px;*/
+	font-size: 12px;
+	margin-top: 5px;
+	color:  #5C5858; /* Gray */
+}
+
+#errorName, #errorEmail{
+	color: #8C001A;
+	font-size: 12px;
+}
+
+#formTitleContainer p{
+	color:  #5C5858; /* Gray */
+}
+
+
+
